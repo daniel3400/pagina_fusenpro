@@ -1,0 +1,1 @@
+comprobamos si la carpeta sigue vinculada al repositorio 
